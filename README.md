@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="500" src="https://www.exploreinsiders.com/wp-content/uploads/2021/10/NFT-Marketplace.jpg">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
